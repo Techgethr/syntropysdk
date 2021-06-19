@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntropySDK", "SyntropySDK\SyntropySDK.csproj", "{9B15A27F-729E-45EF-981F-4B9276057B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntropySDK.ConsoleTest", "SyntropySDK.ConsoleTest\SyntropySDK.ConsoleTest.csproj", "{EA33F325-4C42-4D11-8C25-9F22986B1740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B15A27F-729E-45EF-981F-4B9276057B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B15A27F-729E-45EF-981F-4B9276057B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B15A27F-729E-45EF-981F-4B9276057B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B15A27F-729E-45EF-981F-4B9276057B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA33F325-4C42-4D11-8C25-9F22986B1740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA33F325-4C42-4D11-8C25-9F22986B1740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA33F325-4C42-4D11-8C25-9F22986B1740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA33F325-4C42-4D11-8C25-9F22986B1740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {405075C4-637F-4A98-AF74-D10393427DA1}
+	EndGlobalSection
+EndGlobal
